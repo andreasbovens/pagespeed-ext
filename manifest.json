@@ -12,7 +12,8 @@
             "128": "icon_128.png" },
 
   "permissions": [
-    "tabs" ],
+    "tabs",
+    "https://developers.google.com/speed/pagespeed/insights/*" ],
   "browser_action": {
     "default_icon": "icon.png",
     "default_title": "Evaluate this page with PageSpeed Insights"
