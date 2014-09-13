@@ -5,7 +5,7 @@
   "description": "This will take the URL of the current tab and send it to PageSpeed Insights for a web performance analysis.",
   "developer": { "name": "Andreas Bovens",
                  "url": "https://github.com/andreasbovens/" },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "background": {"scripts": ["background.js"]},
   "icons": { "16": "icon_16.png",
              "48": "icon_48.png",
